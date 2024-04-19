@@ -18,13 +18,13 @@ This project allows you to generate a QR code from a URL input provided by the u
 1. Clone the repository:
 
     ```bash
-    [https://github.com/Harishsemwal/QR-Code-Quick-Response-Code-Generator.git](https://github.com/Harishsemwal/QR-Code-Quick-Response-Code-Generator.git)
+    https://github.com/Harishsemwal/QR-Code-Quick-Response-Code-Generator.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd qr-code-generator
+    cd QR-Code-Quick-Response-Code-Generator
     ```
 
 3. Install the dependencies:
