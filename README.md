@@ -1,4 +1,4 @@
-# QR Code Generator :
+# QR Code Generator 
 
 This project allows you to generate a QR code from a URL input provided by the user. The QR code is saved as a PNG image, and the URL is also saved in a text file.
 
